@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hey there! I'm Nikita
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%cb882f&lines=I`m+QA+engineer)](https://git.io/typing-svg)
 
