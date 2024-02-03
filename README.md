@@ -29,12 +29,11 @@
 <img width="7%" title="Appium" src="media/appium.svg">
 </p>
 
-## My projects:
-### :heavy_check_mark: UI Autotests for TarkovArena website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=TarkovArena-UI-Tests)](https://github.com/nikitooooos/TarkovArena-UI-Tests)
+## My Projects
 
-### :heavy_check_mark: API Autotests for reqres.in website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=Reqres-API-Tests)](https://github.com/nikitooooos/Reqres-API-Tests)
+| Course | Repository | Certificate |
+|--------|------------|-------------|
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) [QA Guru Test Automation School](https://qa.guru/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=TarkovArena-UI-Tests)](https://github.com/nikitooooos/TarkovArena-UI-Tests)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=Reqres-API-Tests)](https://github.com/nikitooooos/Reqres-API-Tests) | [![Certificate](https://img.shields.io/badge/Certificate-View-purple)](https://photos.app.goo.gl/eccq5e9WVfHcDDKJ6) 
 
 ## My stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitooooos&theme=solarized_dark)
