@@ -36,7 +36,7 @@
 ### :heavy_check_mark: API Autotests for reqres.in website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=Reqres-API-Tests)](https://github.com/nikitooooos/Reqres-API-Tests)
 
-### My stats:
+## My stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitooooos&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitooooos&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitooooos&theme=solarized_dark)
