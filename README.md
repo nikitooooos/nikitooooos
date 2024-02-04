@@ -33,7 +33,7 @@
 
 | Course | Repository | Certificate |
 |--------|------------|-------------|
-| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) [QA Guru Test Automation School](https://qa.guru/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=TarkovArena-UI-Tests)](https://github.com/nikitooooos/TarkovArena-UI-Tests)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=Reqres-API-Tests)](https://github.com/nikitooooos/Reqres-API-Tests) | [![Certificate](https://img.shields.io/badge/Certificate-View-purple)](https://photos.app.goo.gl/eccq5e9WVfHcDDKJ6) 
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) [QA Guru Test Automation School](https://qa.guru/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=TarkovArena-UI-Tests)](https://github.com/nikitooooos/TarkovArena-UI-Tests)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitooooos&repo=Reqres-API-Tests)](https://github.com/nikitooooos/Reqres-API-Tests) | [![Certificate](https://img.shields.io/badge/Certificate-View-purple)](https://photos.app.goo.gl/w8tPaDYBMcwWG1BH6) 
 
 ## My stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitooooos&theme=solarized_dark)
