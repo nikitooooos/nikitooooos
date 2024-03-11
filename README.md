@@ -25,8 +25,6 @@
 <img width="7%" title="GitHub" src="media/GitHub.svg">
 <img width="7%" title="Jenkins" src="media/Jenkins.svg">
 <img width="7%" title="Rest Assured" src="media/RestAssured.svg">
-<img width="7%" title="Android Studio" src="media/androidstudio.svg">
-<img width="7%" title="Appium" src="media/appium.svg">
 </p>
 
 ## My Projects
